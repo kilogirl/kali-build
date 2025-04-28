@@ -2,6 +2,8 @@
 # Building Kali using Ansible
 
 **Make Sure to install Ansible using `pip` you can follow the steps [here](https://docs.ansible.com/ansible/2.9/installation_guide/intro_installation.html#installing-ansible-with-pip)**
+## Todo
+- Develop kickoff script to install Ansible
 
 ## Instructions
 
